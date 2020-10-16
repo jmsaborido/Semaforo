@@ -1,0 +1,15 @@
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\MainWindow.g.cs
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\App.g.cs
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo_MarkupCompile.cache
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo_MarkupCompile.lref
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\bin\Debug\Semaforo.exe.config
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\bin\Debug\Semaforo.exe
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\bin\Debug\Semaforo.pdb
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\MainWindow.baml
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.g.resources
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.Properties.Resources.resources
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.GenerateResource.cache
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.csproj.CoreCompileInputs.cache
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.exe
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.pdb
+C:\Users\wasd3\source\repos\Semaforo\Semaforo\obj\Debug\Semaforo.csprojAssemblyReference.cache
